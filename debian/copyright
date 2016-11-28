@@ -1,0 +1,3 @@
+Format: http://dep.debian.net/deps/dep5
+Upstream-Contact: Volker Theile <vtheile@suse.com>
+Source: https://github.com/adrienverge/openfortivpn
