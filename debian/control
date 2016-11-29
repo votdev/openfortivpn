@@ -9,7 +9,7 @@ Homepage: https://github.com/adrienverge/openfortivpn
 Package: openfortivpn
 Architecture: all
 Depends: ${misc:Depends}
-Description: Fortinet-compatible VPN client
+Description: Client for PPP+SSL VPN tunnel services
  openfortivpn is a client for PPP+SSL VPN tunnel services. It spawns a pppd
  process and operates the communication between the gateway and this process.
  .
